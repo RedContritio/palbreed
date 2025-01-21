@@ -1,0 +1,937 @@
+[
+    {
+        "name": "Chikipi",
+        "CombiRank": 1500,
+        "IndexOrder": 66
+    },
+    {
+        "name": "Teafant",
+        "CombiRank": 1490,
+        "IndexOrder": 17
+    },
+    {
+        "name": "Mau",
+        "CombiRank": 1480,
+        "IndexOrder": 7
+    },
+    {
+        "name": "Lamball",
+        "CombiRank": 1470,
+        "IndexOrder": 31
+    },
+    {
+        "name": "Cattiva",
+        "CombiRank": 1460,
+        "IndexOrder": 50
+    },
+    {
+        "name": "Cremis",
+        "CombiRank": 1455,
+        "IndexOrder": 147
+    },
+    {
+        "name": "Vixy",
+        "CombiRank": 1450,
+        "IndexOrder": 84
+    },
+    {
+        "name": "Mau Cryst",
+        "CombiRank": 1440,
+        "IndexOrder": 8
+    },
+    {
+        "name": "Lifmunk",
+        "CombiRank": 1430,
+        "IndexOrder": 10
+    },
+    {
+        "name": "Hangyu Cryst",
+        "CombiRank": 1422,
+        "IndexOrder": 36
+    },
+    {
+        "name": "Hangyu",
+        "CombiRank": 1420,
+        "IndexOrder": 35
+    },
+    {
+        "name": "Sparkit",
+        "CombiRank": 1410,
+        "IndexOrder": 69
+    },
+    {
+        "name": "Flambelle",
+        "CombiRank": 1405,
+        "IndexOrder": 149
+    },
+    {
+        "name": "Foxparks",
+        "CombiRank": 1400,
+        "IndexOrder": 24
+    },
+    {
+        "name": "Hoocrates",
+        "CombiRank": 1390,
+        "IndexOrder": 88
+    },
+    {
+        "name": "Depresso",
+        "CombiRank": 1380,
+        "IndexOrder": 51
+    },
+    {
+        "name": "Jolthog",
+        "CombiRank": 1370,
+        "IndexOrder": 21
+    },
+    {
+        "name": "Jolthog Cryst",
+        "CombiRank": 1360,
+        "IndexOrder": 22
+    },
+    {
+        "name": "Pengullet",
+        "CombiRank": 1350,
+        "IndexOrder": 27
+    },
+    {
+        "name": "Tocotoco",
+        "CombiRank": 1340,
+        "IndexOrder": 11
+    },
+    {
+        "name": "Fuack",
+        "CombiRank": 1330,
+        "IndexOrder": 63
+    },
+    {
+        "name": "Bristla",
+        "CombiRank": 1320,
+        "IndexOrder": 25
+    },
+    {
+        "name": "Ribbuny",
+        "CombiRank": 1310,
+        "IndexOrder": 123
+    },
+    {
+        "name": "Foxparks Cryst",
+        "CombiRank": 1305,
+        "IndexOrder": 182
+    },
+    {
+        "name": "Swee",
+        "CombiRank": 1300,
+        "IndexOrder": 119
+    },
+    {
+        "name": "Killamari",
+        "CombiRank": 1290,
+        "IndexOrder": 91
+    },
+    {
+        "name": "Flopie",
+        "CombiRank": 1280,
+        "IndexOrder": 97
+    },
+    {
+        "name": "Kelpsea Ignis",
+        "CombiRank": 1270,
+        "IndexOrder": 90
+    },
+    {
+        "name": "Kelpsea",
+        "CombiRank": 1260,
+        "IndexOrder": 89
+    },
+    {
+        "name": "Tanzee",
+        "CombiRank": 1250,
+        "IndexOrder": 113
+    },
+    {
+        "name": "Smokie",
+        "CombiRank": 1245,
+        "IndexOrder": 172
+    },
+    {
+        "name": "Gumoss",
+        "CombiRank": 1240,
+        "IndexOrder": 118
+    },
+    {
+        "name": "Daedream",
+        "CombiRank": 1230,
+        "IndexOrder": 112
+    },
+    {
+        "name": "Fuddler",
+        "CombiRank": 1220,
+        "IndexOrder": 107
+    },
+    {
+        "name": "Dazzi",
+        "CombiRank": 1210,
+        "IndexOrder": 28
+    },
+    {
+        "name": "Ribbuny Botan",
+        "CombiRank": 1205,
+        "IndexOrder": 184
+    },
+    {
+        "name": "Mimog",
+        "CombiRank": 1200,
+        "IndexOrder": 165
+    },
+    {
+        "name": "Woolipop",
+        "CombiRank": 1190,
+        "IndexOrder": 43
+    },
+    {
+        "name": "Nox",
+        "CombiRank": 1180,
+        "IndexOrder": 128
+    },
+    {
+        "name": "Wixen",
+        "CombiRank": 1160,
+        "IndexOrder": 85
+    },
+    {
+        "name": "Rooby",
+        "CombiRank": 1155,
+        "IndexOrder": 150
+    },
+    {
+        "name": "Maraith",
+        "CombiRank": 1150,
+        "IndexOrder": 55
+    },
+    {
+        "name": "Wixen Noct",
+        "CombiRank": 1150,
+        "IndexOrder": 86
+    },
+    {
+        "name": "Leezpunk Ignis",
+        "CombiRank": 1140,
+        "IndexOrder": 62
+    },
+    {
+        "name": "Rushoar",
+        "CombiRank": 1130,
+        "IndexOrder": 9
+    },
+    {
+        "name": "Kikit",
+        "CombiRank": 1125,
+        "IndexOrder": 158
+    },
+    {
+        "name": "Leezpunk",
+        "CombiRank": 1120,
+        "IndexOrder": 61
+    },
+    {
+        "name": "Dazzi Noct",
+        "CombiRank": 1115,
+        "IndexOrder": 187
+    },
+    {
+        "name": "Lunaris",
+        "CombiRank": 1110,
+        "IndexOrder": 26
+    },
+    {
+        "name": "Gobfin Ignis",
+        "CombiRank": 1100,
+        "IndexOrder": 30
+    },
+    {
+        "name": "Gobfin",
+        "CombiRank": 1090,
+        "IndexOrder": 29
+    },
+    {
+        "name": "Cawgnito",
+        "CombiRank": 1080,
+        "IndexOrder": 48
+    },
+    {
+        "name": "Beegarde",
+        "CombiRank": 1070,
+        "IndexOrder": 101
+    },
+    {
+        "name": "Direhowl",
+        "CombiRank": 1060,
+        "IndexOrder": 18
+    },
+    {
+        "name": "Vaelet",
+        "CombiRank": 1050,
+        "IndexOrder": 95
+    },
+    {
+        "name": "Gorirat",
+        "CombiRank": 1040,
+        "IndexOrder": 19
+    },
+    {
+        "name": "Galeclaw",
+        "CombiRank": 1030,
+        "IndexOrder": 15
+    },
+    {
+        "name": "Gorirat Terra",
+        "CombiRank": 1030,
+        "IndexOrder": 20
+    },
+    {
+        "name": "Robinquill",
+        "CombiRank": 1020,
+        "IndexOrder": 56
+    },
+    {
+        "name": "Felbat",
+        "CombiRank": 1010,
+        "IndexOrder": 74
+    },
+    {
+        "name": "Robinquill Terra",
+        "CombiRank": 1000,
+        "IndexOrder": 57
+    },
+    {
+        "name": "Verdash",
+        "CombiRank": 990,
+        "IndexOrder": 109
+    },
+    {
+        "name": "Fenglope",
+        "CombiRank": 980,
+        "IndexOrder": 52
+    },
+    {
+        "name": "Loupmoon",
+        "CombiRank": 950,
+        "IndexOrder": 34
+    },
+    {
+        "name": "Yakumo",
+        "CombiRank": 945,
+        "IndexOrder": 162
+    },
+    {
+        "name": "Lovander",
+        "CombiRank": 940,
+        "IndexOrder": 87
+    },
+    {
+        "name": "Caprity",
+        "CombiRank": 930,
+        "IndexOrder": 80
+    },
+    {
+        "name": "Eikthyrdeer",
+        "CombiRank": 920,
+        "IndexOrder": 12
+    },
+    {
+        "name": "Mozzarina",
+        "CombiRank": 910,
+        "IndexOrder": 92
+    },
+    {
+        "name": "Lullu",
+        "CombiRank": 905,
+        "IndexOrder": 155
+    },
+    {
+        "name": "Eikthyrdeer Terra",
+        "CombiRank": 900,
+        "IndexOrder": 13
+    },
+    {
+        "name": "Dumud",
+        "CombiRank": 895,
+        "IndexOrder": 148
+    },
+    {
+        "name": "Melpaca",
+        "CombiRank": 890,
+        "IndexOrder": 45
+    },
+    {
+        "name": "Reindrix",
+        "CombiRank": 880,
+        "IndexOrder": 81
+    },
+    {
+        "name": "Celaray",
+        "CombiRank": 870,
+        "IndexOrder": 139
+    },
+    {
+        "name": "Broncherry",
+        "CombiRank": 860,
+        "IndexOrder": 75
+    },
+    {
+        "name": "Caprity Noct",
+        "CombiRank": 855,
+        "IndexOrder": 183
+    },
+    {
+        "name": "Digtoise",
+        "CombiRank": 850,
+        "IndexOrder": 14
+    },
+    {
+        "name": "Broncherry Aqua",
+        "CombiRank": 840,
+        "IndexOrder": 76
+    },
+    {
+        "name": "Fenglope Lux",
+        "CombiRank": 835,
+        "IndexOrder": 189
+    },
+    {
+        "name": "Kitsun",
+        "CombiRank": 830,
+        "IndexOrder": 60
+    },
+    {
+        "name": "Tarantriss",
+        "CombiRank": 825,
+        "IndexOrder": 176
+    },
+    {
+        "name": "Dinossom",
+        "CombiRank": 820,
+        "IndexOrder": 67
+    },
+    {
+        "name": "Celesdir",
+        "CombiRank": 815,
+        "IndexOrder": 173
+    },
+    {
+        "name": "Dinossom Lux",
+        "CombiRank": 810,
+        "IndexOrder": 68
+    },
+    {
+        "name": "Loupmoon Cryst",
+        "CombiRank": 805,
+        "IndexOrder": 185
+    },
+    {
+        "name": "Chillet",
+        "CombiRank": 800,
+        "IndexOrder": 130
+    },
+    {
+        "name": "Croajiro",
+        "CombiRank": 795,
+        "IndexOrder": 154
+    },
+    {
+        "name": "Arsox",
+        "CombiRank": 790,
+        "IndexOrder": 105
+    },
+    {
+        "name": "Chillet Ignis",
+        "CombiRank": 790,
+        "IndexOrder": 131
+    },
+    {
+        "name": "Petallia",
+        "CombiRank": 780,
+        "IndexOrder": 141
+    },
+    {
+        "name": "Foxcicle",
+        "CombiRank": 760,
+        "IndexOrder": 110
+    },
+    {
+        "name": "Prunelia",
+        "CombiRank": 755,
+        "IndexOrder": 2
+    },
+    {
+        "name": "Tombat",
+        "CombiRank": 750,
+        "IndexOrder": 102
+    },
+    {
+        "name": "Rayhound",
+        "CombiRank": 740,
+        "IndexOrder": 106
+    },
+    {
+        "name": "Kitsun Noct",
+        "CombiRank": 735,
+        "IndexOrder": 186
+    },
+    {
+        "name": "Shroomer Noct",
+        "CombiRank": 730,
+        "IndexOrder": 157
+    },
+    {
+        "name": "Splatterina",
+        "CombiRank": 725,
+        "IndexOrder": 175
+    },
+    {
+        "name": "Shroomer",
+        "CombiRank": 720,
+        "IndexOrder": 156
+    },
+    {
+        "name": "Blazehowl",
+        "CombiRank": 710,
+        "IndexOrder": 114
+    },
+    {
+        "name": "Nitemary",
+        "CombiRank": 705,
+        "IndexOrder": 169
+    },
+    {
+        "name": "Katress",
+        "CombiRank": 700,
+        "IndexOrder": 121
+    },
+    {
+        "name": "Katress Ignis",
+        "CombiRank": 690,
+        "IndexOrder": 122
+    },
+    {
+        "name": "Univolt",
+        "CombiRank": 680,
+        "IndexOrder": 23
+    },
+    {
+        "name": "Dazemu",
+        "CombiRank": 675,
+        "IndexOrder": 164
+    },
+    {
+        "name": "Blazehowl Noct",
+        "CombiRank": 670,
+        "IndexOrder": 115
+    },
+    {
+        "name": "Dogen",
+        "CombiRank": 665,
+        "IndexOrder": 163
+    },
+    {
+        "name": "Vanwyrm",
+        "CombiRank": 660,
+        "IndexOrder": 64
+    },
+    {
+        "name": "Bushi Noct",
+        "CombiRank": 650,
+        "IndexOrder": 138
+    },
+    {
+        "name": "Nyafia",
+        "CombiRank": 645,
+        "IndexOrder": 1
+    },
+    {
+        "name": "Bushi",
+        "CombiRank": 640,
+        "IndexOrder": 137
+    },
+    {
+        "name": "Omascul",
+        "CombiRank": 630,
+        "IndexOrder": 174
+    },
+    {
+        "name": "Vanwyrm Cryst",
+        "CombiRank": 620,
+        "IndexOrder": 65
+    },
+    {
+        "name": "Incineram",
+        "CombiRank": 590,
+        "IndexOrder": 5
+    },
+    {
+        "name": "Incineram Noct",
+        "CombiRank": 580,
+        "IndexOrder": 6
+    },
+    {
+        "name": "Anubis",
+        "CombiRank": 570,
+        "IndexOrder": 4
+    },
+    {
+        "name": "Surfent",
+        "CombiRank": 560,
+        "IndexOrder": 46
+    },
+    {
+        "name": "Surfent Terra",
+        "CombiRank": 550,
+        "IndexOrder": 47
+    },
+    {
+        "name": "Sootseer",
+        "CombiRank": 545,
+        "IndexOrder": 159
+    },
+    {
+        "name": "Elphidran",
+        "CombiRank": 540,
+        "IndexOrder": 41
+    },
+    {
+        "name": "Elphidran Aqua",
+        "CombiRank": 530,
+        "IndexOrder": 42
+    },
+    {
+        "name": "Penking",
+        "CombiRank": 520,
+        "IndexOrder": 129
+    },
+    {
+        "name": "Grintale",
+        "CombiRank": 510,
+        "IndexOrder": 142
+    },
+    {
+        "name": "Gildane",
+        "CombiRank": 505,
+        "IndexOrder": 3
+    },
+    {
+        "name": "Azurobe",
+        "CombiRank": 500,
+        "IndexOrder": 49
+    },
+    {
+        "name": "Cinnamoth",
+        "CombiRank": 490,
+        "IndexOrder": 143
+    },
+    {
+        "name": "Wumpo Botan",
+        "CombiRank": 480,
+        "IndexOrder": 94
+    },
+    {
+        "name": "Kingpaca",
+        "CombiRank": 470,
+        "IndexOrder": 116
+    },
+    {
+        "name": "Xenovader",
+        "CombiRank": 465,
+        "IndexOrder": 166
+    },
+    {
+        "name": "Wumpo",
+        "CombiRank": 460,
+        "IndexOrder": 93
+    },
+    {
+        "name": "Sibelyx",
+        "CombiRank": 450,
+        "IndexOrder": 83
+    },
+    {
+        "name": "Kingpaca Cryst",
+        "CombiRank": 440,
+        "IndexOrder": 117
+    },
+    {
+        "name": "Xenogard",
+        "CombiRank": 435,
+        "IndexOrder": 167
+    },
+    {
+        "name": "Mossanda",
+        "CombiRank": 430,
+        "IndexOrder": 103
+    },
+    {
+        "name": "Nitewing",
+        "CombiRank": 420,
+        "IndexOrder": 96
+    },
+    {
+        "name": "Sweepa",
+        "CombiRank": 410,
+        "IndexOrder": 120
+    },
+    {
+        "name": "Azurmane",
+        "CombiRank": 400,
+        "IndexOrder": 177
+    },
+    {
+        "name": "Mossanda Lux",
+        "CombiRank": 390,
+        "IndexOrder": 104
+    },
+    {
+        "name": "Ragnahawk",
+        "CombiRank": 380,
+        "IndexOrder": 136
+    },
+    {
+        "name": "Faleris",
+        "CombiRank": 370,
+        "IndexOrder": 77
+    },
+    {
+        "name": "Starryon",
+        "CombiRank": 365,
+        "IndexOrder": 170
+    },
+    {
+        "name": "Pyrin",
+        "CombiRank": 360,
+        "IndexOrder": 39
+    },
+    {
+        "name": "Prixter",
+        "CombiRank": 355,
+        "IndexOrder": 160
+    },
+    {
+        "name": "Quivern",
+        "CombiRank": 350,
+        "IndexOrder": 132
+    },
+    {
+        "name": "Selyne",
+        "CombiRank": 345,
+        "IndexOrder": 153
+    },
+    {
+        "name": "Warsect",
+        "CombiRank": 340,
+        "IndexOrder": 125
+    },
+    {
+        "name": "Quivern Botan",
+        "CombiRank": 340,
+        "IndexOrder": 133
+    },
+    {
+        "name": "Elizabee",
+        "CombiRank": 330,
+        "IndexOrder": 100
+    },
+    {
+        "name": "Reptyro",
+        "CombiRank": 320,
+        "IndexOrder": 53
+    },
+    {
+        "name": "Jormuntide Ignis",
+        "CombiRank": 315,
+        "IndexOrder": 33
+    },
+    {
+        "name": "Jormuntide",
+        "CombiRank": 310,
+        "IndexOrder": 32
+    },
+    {
+        "name": "Mammorest",
+        "CombiRank": 300,
+        "IndexOrder": 72
+    },
+    {
+        "name": "Mammorest Cryst",
+        "CombiRank": 290,
+        "IndexOrder": 73
+    },
+    {
+        "name": "Relaxaurus",
+        "CombiRank": 280,
+        "IndexOrder": 58
+    },
+    {
+        "name": "Warsect Terra",
+        "CombiRank": 275,
+        "IndexOrder": 126
+    },
+    {
+        "name": "Relaxaurus Lux",
+        "CombiRank": 270,
+        "IndexOrder": 59
+    },
+    {
+        "name": "Knocklem",
+        "CombiRank": 265,
+        "IndexOrder": 161
+    },
+    {
+        "name": "Xenolord",
+        "CombiRank": 265,
+        "IndexOrder": 168
+    },
+    {
+        "name": "Menasting",
+        "CombiRank": 260,
+        "IndexOrder": 144
+    },
+    {
+        "name": "Lyleen",
+        "CombiRank": 250,
+        "IndexOrder": 98
+    },
+    {
+        "name": "Menasting Terra",
+        "CombiRank": 250,
+        "IndexOrder": 145
+    },
+    {
+        "name": "Faleris Aqua",
+        "CombiRank": 245,
+        "IndexOrder": 190
+    },
+    {
+        "name": "Pyrin Noct",
+        "CombiRank": 240,
+        "IndexOrder": 40
+    },
+    {
+        "name": "Reptyro Cryst",
+        "CombiRank": 230,
+        "IndexOrder": 54
+    },
+    {
+        "name": "Beakon",
+        "CombiRank": 220,
+        "IndexOrder": 124
+    },
+    {
+        "name": "Silvegis",
+        "CombiRank": 215,
+        "IndexOrder": 171
+    },
+    {
+        "name": "Lyleen Noct",
+        "CombiRank": 210,
+        "IndexOrder": 99
+    },
+    {
+        "name": "Grizzbolt",
+        "CombiRank": 200,
+        "IndexOrder": 16
+    },
+    {
+        "name": "Helzephyr",
+        "CombiRank": 190,
+        "IndexOrder": 134
+    },
+    {
+        "name": "Helzephyr Lux",
+        "CombiRank": 180,
+        "IndexOrder": 135
+    },
+    {
+        "name": "Bastigor",
+        "CombiRank": 170,
+        "IndexOrder": 191
+    },
+    {
+        "name": "Cryolinx Terra",
+        "CombiRank": 160,
+        "IndexOrder": 188
+    },
+    {
+        "name": "Astegon",
+        "CombiRank": 150,
+        "IndexOrder": 108
+    },
+    {
+        "name": "Orserk",
+        "CombiRank": 140,
+        "IndexOrder": 146
+    },
+    {
+        "name": "Cryolinx",
+        "CombiRank": 130,
+        "IndexOrder": 44
+    },
+    {
+        "name": "Frostallion",
+        "CombiRank": 120,
+        "IndexOrder": 70
+    },
+    {
+        "name": "Frostallion Noct",
+        "CombiRank": 100,
+        "IndexOrder": 71
+    },
+    {
+        "name": "Jetragon",
+        "CombiRank": 90,
+        "IndexOrder": 111
+    },
+    {
+        "name": "Paladius",
+        "CombiRank": 80,
+        "IndexOrder": 127
+    },
+    {
+        "name": "Necromus",
+        "CombiRank": 70,
+        "IndexOrder": 140
+    },
+    {
+        "name": "Shadowbeak",
+        "CombiRank": 60,
+        "IndexOrder": 82
+    },
+    {
+        "name": "Suzaku",
+        "CombiRank": 50,
+        "IndexOrder": 37
+    },
+    {
+        "name": "Suzaku Aqua",
+        "CombiRank": 30,
+        "IndexOrder": 38
+    },
+    {
+        "name": "Blazamut",
+        "CombiRank": 10,
+        "IndexOrder": 78
+    },
+    {
+        "name": "Blazamut Ryu",
+        "CombiRank": 9,
+        "IndexOrder": 79
+    },
+    {
+        "name": "Bellanoir",
+        "CombiRank": 1,
+        "IndexOrder": 151
+    },
+    {
+        "name": "Bellanoir Libero",
+        "CombiRank": 1,
+        "IndexOrder": 152
+    }
+]
