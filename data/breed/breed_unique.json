@@ -1,0 +1,359 @@
+[
+    {
+        "parents": [
+            "Relaxaurus",
+            "Sparkit"
+        ],
+        "child": "Relaxaurus Lux"
+    },
+    {
+        "parents": [
+            "Incineram",
+            "Maraith"
+        ],
+        "child": "Incineram Noct"
+    },
+    {
+        "parents": [
+            "Mau",
+            "Pengullet"
+        ],
+        "child": "Mau Cryst"
+    },
+    {
+        "parents": [
+            "Vanwyrm",
+            "Foxcicle"
+        ],
+        "child": "Vanwyrm Cryst"
+    },
+    {
+        "parents": [
+            "Eikthyrdeer",
+            "Hangyu"
+        ],
+        "child": "Eikthyrdeer Terra"
+    },
+    {
+        "parents": [
+            "Elphidran",
+            "Surfent"
+        ],
+        "child": "Elphidran Aqua"
+    },
+    {
+        "parents": [
+            "Pyrin",
+            "Katress"
+        ],
+        "child": "Pyrin Noct"
+    },
+    {
+        "parents": [
+            "Mammorest",
+            "Wumpo"
+        ],
+        "child": "Mammorest Cryst"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Grizzbolt"
+        ],
+        "child": "Mossanda Lux"
+    },
+    {
+        "parents": [
+            "Dinossom",
+            "Rayhound"
+        ],
+        "child": "Dinossom Lux"
+    },
+    {
+        "parents": [
+            "Jolthog",
+            "Pengullet"
+        ],
+        "child": "Jolthog Cryst"
+    },
+    {
+        "parents": [
+            "Frostallion",
+            "Helzephyr"
+        ],
+        "child": "Frostallion Noct"
+    },
+    {
+        "parents": [
+            "Kingpaca",
+            "Reindrix"
+        ],
+        "child": "Kingpaca Cryst"
+    },
+    {
+        "parents": [
+            "Lyleen",
+            "Menasting"
+        ],
+        "child": "Lyleen Noct"
+    },
+    {
+        "parents": [
+            "Leezpunk",
+            "Flambelle"
+        ],
+        "child": "Leezpunk Ignis"
+    },
+    {
+        "parents": [
+            "Blazehowl",
+            "Felbat"
+        ],
+        "child": "Blazehowl Noct"
+    },
+    {
+        "parents": [
+            "Robinquill",
+            "Fuddler"
+        ],
+        "child": "Robinquill Terra"
+    },
+    {
+        "parents": [
+            "Broncherry",
+            "Fuack"
+        ],
+        "child": "Broncherry Aqua"
+    },
+    {
+        "parents": [
+            "Surfent",
+            "Dumud"
+        ],
+        "child": "Surfent Terra"
+    },
+    {
+        "parents": [
+            "Gobfin",
+            "Rooby"
+        ],
+        "child": "Gobfin Ignis"
+    },
+    {
+        "parents": [
+            "Suzaku",
+            "Jormuntide"
+        ],
+        "child": "Suzaku Aqua"
+    },
+    {
+        "parents": [
+            "Reptyro",
+            "Foxcicle"
+        ],
+        "child": "Reptyro Cryst"
+    },
+    {
+        "parents": [
+            "Hangyu",
+            "Swee"
+        ],
+        "child": "Hangyu Cryst"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Petallia"
+        ],
+        "child": "Lyleen"
+    },
+    {
+        "parents": [
+            "Vanwyrm",
+            "Anubis"
+        ],
+        "child": "Faleris"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Rayhound"
+        ],
+        "child": "Grizzbolt"
+    },
+    {
+        "parents": [
+            "Grizzbolt",
+            "Relaxaurus"
+        ],
+        "child": "Orserk"
+    },
+    {
+        "parents": [
+            "Kitsun",
+            "Astegon"
+        ],
+        "child": "Shadowbeak"
+    },
+    {
+        "parents": [
+            "Jormuntide",
+            "Blazehowl"
+        ],
+        "child": "Jormuntide Ignis"
+    },
+    {
+        "parents": [
+            "Bellanoir",
+            "Bellanoir Libero"
+        ],
+        "child": "Bellanoir"
+    },
+    {
+        "parents": [
+            "Katress",
+            "Wixen"
+        ],
+        "child": "Wixen Noct"
+    },
+    {
+        "parents": [
+            "Katress",
+            "Wixen"
+        ],
+        "child": "Katress Ignis"
+    },
+    {
+        "parents": [
+            "Gorirat",
+            "Kikit"
+        ],
+        "child": "Gorirat Terra"
+    },
+    {
+        "parents": [
+            "Chillet",
+            "Arsox"
+        ],
+        "child": "Chillet Ignis"
+    },
+    {
+        "parents": [
+            "Quivern",
+            "Lullu"
+        ],
+        "child": "Quivern Botan"
+    },
+    {
+        "parents": [
+            "Helzephyr",
+            "Beakon"
+        ],
+        "child": "Helzephyr Lux"
+    },
+    {
+        "parents": [
+            "Bushi",
+            "Sootseer"
+        ],
+        "child": "Bushi Noct"
+    },
+    {
+        "parents": [
+            "Menasting",
+            "Knocklem"
+        ],
+        "child": "Menasting Terra"
+    },
+    {
+        "parents": [
+            "Foxparks",
+            "Foxcicle"
+        ],
+        "child": "Foxparks Cryst"
+    },
+    {
+        "parents": [
+            "Dazzi",
+            "Omascul"
+        ],
+        "child": "Dazzi Noct"
+    },
+    {
+        "parents": [
+            "Cryolinx",
+            "Dazemu"
+        ],
+        "child": "Cryolinx Terra"
+    },
+    {
+        "parents": [
+            "Fenglope",
+            "Azurmane"
+        ],
+        "child": "Fenglope Lux"
+    },
+    {
+        "parents": [
+            "Caprity",
+            "Tarantriss"
+        ],
+        "child": "Caprity Noct"
+    },
+    {
+        "parents": [
+            "Loupmoon",
+            "Sweepa"
+        ],
+        "child": "Loupmoon Cryst"
+    },
+    {
+        "parents": [
+            "Faleris",
+            "Jormuntide"
+        ],
+        "child": "Faleris Aqua"
+    },
+    {
+        "parents": [
+            "Ribbuny",
+            "Bristla"
+        ],
+        "child": "Ribbuny Botan"
+    },
+    {
+        "parents": [
+            "Warsect",
+            "Digtoise"
+        ],
+        "child": "Warsect Terra"
+    },
+    {
+        "parents": [
+            "Kitsun",
+            "Nyafia"
+        ],
+        "child": "Kitsun Noct"
+    },
+    {
+        "parents": [
+            "Frostallion",
+            "Anubis"
+        ],
+        "child": "Bastigor"
+    },
+    {
+        "parents": [
+            "Paladius",
+            "Lunaris"
+        ],
+        "child": "Selyne"
+    },
+    {
+        "parents": [
+            "Gildane",
+            "Eikthyrdeer Terra"
+        ],
+        "child": "Celesdir"
+    }
+]

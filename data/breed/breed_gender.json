@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dazzi",
+        "male": 0.20,
+        "female": 0.80
+    },
+    {
+        "name": "Mimog",
+        "male": 0.80,
+        "female": 0.20
+    },
+    {
+        "name": "Dazzi Noct",
+        "male": 0.20,
+        "female": 0.80
+    },
+    {
+        "name": "Beegarde",
+        "male": 0.10,
+        "female": 0.90
+    },
+    {
+        "name": "Lovander",
+        "male": 0.30,
+        "female": 0.70
+    },
+    {
+        "name": "Mozzarina",
+        "male": 0.20,
+        "female": 0.80
+    },
+    {
+        "name": "Lullu",
+        "male": 0.30,
+        "female": 0.70
+    },
+    {
+        "name": "Prunelia",
+        "male": 0.40,
+        "female": 0.60
+    },
+    {
+        "name": "Splatterina",
+        "male": 0.38,
+        "female": 0.62
+    },
+    {
+        "name": "Shroomer",
+        "male": 0.55,
+        "female": 0.45
+    },
+    {
+        "name": "Nitemary",
+        "male": 0.40,
+        "female": 0.60
+    },
+    {
+        "name": "Nyafia",
+        "male": 0.40,
+        "female": 0.60
+    },
+    {
+        "name": "Kingpaca",
+        "male": 0.90,
+        "female": 0.10
+    },
+    {
+        "name": "Kingpaca Cryst",
+        "male": 0.90,
+        "female": 0.10
+    },
+    {
+        "name": "Selyne",
+        "male": 0.20,
+        "female": 0.80
+    },
+    {
+        "name": "Warsect",
+        "male": 0.85,
+        "female": 0.15
+    },
+    {
+        "name": "Elizabee",
+        "male": 0.10,
+        "female": 0.90
+    },
+    {
+        "name": "Warsect Terra",
+        "male": 0.85,
+        "female": 0.15
+    },
+    {
+        "name": "Knocklem",
+        "male": 0.70,
+        "female": 0.30
+    },
+    {
+        "name": "Lyleen",
+        "male": 0.30,
+        "female": 0.70
+    },
+    {
+        "name": "Lyleen Noct",
+        "male": 0.30,
+        "female": 0.70
+    },
+    {
+        "name": "Bastigor",
+        "male": 0.60,
+        "female": 0.40
+    },
+    {
+        "name": "Bellanoir",
+        "male": 0.10,
+        "female": 0.90
+    },
+    {
+        "name": "Bellanoir Libero",
+        "male": 0.10,
+        "female": 0.90
+    }
+]

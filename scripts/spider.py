@@ -38,16 +38,18 @@ def save_data(data, cache_file):
 
 
 if __name__ == '__main__':
-    cache_dir = "data/.cache"
+    data_dir = 'data'
+    cache_dir = os.path.join(data_dir, ".cache")
     cache_index_file = os.path.join(cache_dir, "autocomplete_cn.json")
     url = "https://paldb.cc/json/autocomplete_cn.json"
 
     data = load_data(cache_index_file, allow_remote_request=True, remote_url=url)
     
+    i18n_dir = os.path.join(data_dir, "i18n")
     all_pals = [item for item in data if item['desc'] == '帕鲁']
     pal_names = [{'name_en': item['value'], 'name_cn': item['label']} for item in all_pals]
-    cache_palname_file = os.path.join(cache_dir, "pal_names.json")
-    save_data(pal_names, cache_palname_file)
+    palname_file = os.path.join(i18n_dir, "pal_names.json")
+    save_data(pal_names, palname_file)
     
     
     

@@ -1,0 +1,42 @@
+[
+    {
+        "parent": "Frostallion",
+        "child": "Frostallion"
+    },
+    {
+        "parent": "Jetragon",
+        "child": "Jetragon"
+    },
+    {
+        "parent": "Paladius",
+        "child": "Paladius"
+    },
+    {
+        "parent": "Necromus",
+        "child": "Necromus"
+    },
+    {
+        "parent": "Bellanoir Libero",
+        "child": "Bellanoir Libero"
+    },
+    {
+        "parent": "Blazamut Ryu",
+        "child": "Blazamut Ryu"
+    },
+    {
+        "parent": "Mimog",
+        "child": "Mimog"
+    },
+    {
+        "parent": "Xenovader",
+        "child": "Xenovader"
+    },
+    {
+        "parent": "Xenogard",
+        "child": "Xenogard"
+    },
+    {
+        "parent": "Xenolord",
+        "child": "Xenolord"
+    }
+]
